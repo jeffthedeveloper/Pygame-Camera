@@ -1,5 +1,5 @@
-✅ Estrutura do Projeto
 
+```bash
 FaceEmotionPygame/
 ├── main.py                      # Ponto de entrada (Pygame loop)
 ├── core/
@@ -15,5 +15,4 @@ FaceEmotionPygame/
 ├── config/
 │   └── settings.py              # Cores, resolução, paths
 └── README.md                    # Docs em inglês
-
-
+```
